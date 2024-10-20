@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pvckman
+- 👋 Hi, I’m @Ritz Balajadia
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java, C++, and Python
 - 💞️ I’m looking to collaborate in a better organization
